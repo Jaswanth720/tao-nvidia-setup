@@ -7,4 +7,4 @@ TAO official documentation and capabilities- https://developer.nvidia.com/tao-to
  - https://www.youtube.com/watch?v=2oKXVOPJTvg
  - https://www.youtube.com/watch?v=tguxnthQ10E
  - https://www.youtube.com/watch?v=kErfKDZ50To (official video)
-
+ - https://ngc.nvidia.com/setup/installers/cli
